@@ -1,0 +1,7 @@
+project_id = "vmsyqwtqgengyjwhhwah"
+
+[functions.generate-optical-setup]
+verify_jwt = false
+
+[functions.simulate-optical-setup]
+verify_jwt = false
